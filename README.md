@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C,C++,Java**
 
 - 📫 How to reach me **robiulfb001@gmail.com**
 
